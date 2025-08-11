@@ -34,5 +34,5 @@ I'm currently expanding my frontend skills with **Vue.js** to complete my full-s
 
 ### 📫 Let's Connect!
 
-* **LinkedIn**: https://www.linkedin.com/in/maheesha-vardhini-k-l-673bb4199
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheesha-vardhini-k-l-673bb4199/)
 * **Email**: maheeshavardhinikl22@gmail.com
